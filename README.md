@@ -1,3 +1,3 @@
 # Netrunner Icon Cache
 
-An icons repo supporting multiple projects. Centralised here for easy access and updates.
+An icons repo supporting multiple unnoffical Android Netrunner fanmade projects. Centralised here for easy access and updates.
